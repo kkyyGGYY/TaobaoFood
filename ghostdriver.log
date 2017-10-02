@@ -1,0 +1,61 @@
+[INFO  - 2017-10-02T02:30:03.924Z] GhostDriver - Main - running on port 55032
+[INFO  - 2017-10-02T02:30:04.819Z] Session [996cb9f0-a719-11e7-87a2-8f818e21f0e7] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":false,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-02T02:30:04.819Z] Session [996cb9f0-a719-11e7-87a2-8f818e21f0e7] - page.customHeaders:  - {}
+[INFO  - 2017-10-02T02:30:04.820Z] Session [996cb9f0-a719-11e7-87a2-8f818e21f0e7] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-02T02:30:04.820Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 996cb9f0-a719-11e7-87a2-8f818e21f0e7
+[ERROR - 2017-10-02T02:30:07.082Z] Session [996cb9f0-a719-11e7-87a2-8f818e21f0e7] - page.onError - msg: kg/search-suggest/6.3.1/new_suggest.css is not loaded! can not find module in path : https://g.alicdn.com/kg/??search-suggest/6.3.1/new_suggest-min.css
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-02T02:30:07.082Z] Session [996cb9f0-a719-11e7-87a2-8f818e21f0e7] - page.onError - stack:
+  (anonymous function) (https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.5.1/index-min.js,secdev/sufei_data/3.0.8/index.js:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-02T02:30:07.088Z] Session [996cb9f0-a719-11e7-87a2-8f818e21f0e7] - page.onError - msg: kg/search-suggest/6.3.1/index is not loaded! can not find module in path : https://g.alicdn.com/kg/??search-suggest/6.3.1/index-min.js,search-suggest/6.3.1/plugin/history-min.js,search-suggest/6.3.1/plugin/cloud-min.js,search-suggest/6.3.1/plugin/tab-min.js,search-suggest/6.3.1/plugin/history-magic-min.js,search-suggest/6.3.1/plugin/imgsearch-min.js,search-suggest/6.3.1/theme/pailitao/index-min.js
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-02T02:30:07.089Z] Session [996cb9f0-a719-11e7-87a2-8f818e21f0e7] - page.onError - stack:
+  (anonymous function) (https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.5.1/index-min.js,secdev/sufei_data/3.0.8/index.js:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-02T02:30:07.089Z] Session [996cb9f0-a719-11e7-87a2-8f818e21f0e7] - page.onError - msg: kg/search-suggest/6.3.1/plugin/history is not loaded! can not find module in path : https://g.alicdn.com/kg/??search-suggest/6.3.1/index-min.js,search-suggest/6.3.1/plugin/history-min.js,search-suggest/6.3.1/plugin/cloud-min.js,search-suggest/6.3.1/plugin/tab-min.js,search-suggest/6.3.1/plugin/history-magic-min.js,search-suggest/6.3.1/plugin/imgsearch-min.js,search-suggest/6.3.1/theme/pailitao/index-min.js
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-02T02:30:07.089Z] Session [996cb9f0-a719-11e7-87a2-8f818e21f0e7] - page.onError - stack:
+  (anonymous function) (https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.5.1/index-min.js,secdev/sufei_data/3.0.8/index.js:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-02T02:30:07.089Z] Session [996cb9f0-a719-11e7-87a2-8f818e21f0e7] - page.onError - msg: kg/search-suggest/6.3.1/plugin/cloud is not loaded! can not find module in path : https://g.alicdn.com/kg/??search-suggest/6.3.1/index-min.js,search-suggest/6.3.1/plugin/history-min.js,search-suggest/6.3.1/plugin/cloud-min.js,search-suggest/6.3.1/plugin/tab-min.js,search-suggest/6.3.1/plugin/history-magic-min.js,search-suggest/6.3.1/plugin/imgsearch-min.js,search-suggest/6.3.1/theme/pailitao/index-min.js
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-02T02:30:07.089Z] Session [996cb9f0-a719-11e7-87a2-8f818e21f0e7] - page.onError - stack:
+  (anonymous function) (https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.5.1/index-min.js,secdev/sufei_data/3.0.8/index.js:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-02T02:30:07.090Z] Session [996cb9f0-a719-11e7-87a2-8f818e21f0e7] - page.onError - msg: kg/search-suggest/6.3.1/plugin/tab is not loaded! can not find module in path : https://g.alicdn.com/kg/??search-suggest/6.3.1/index-min.js,search-suggest/6.3.1/plugin/history-min.js,search-suggest/6.3.1/plugin/cloud-min.js,search-suggest/6.3.1/plugin/tab-min.js,search-suggest/6.3.1/plugin/history-magic-min.js,search-suggest/6.3.1/plugin/imgsearch-min.js,search-suggest/6.3.1/theme/pailitao/index-min.js
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-02T02:30:07.090Z] Session [996cb9f0-a719-11e7-87a2-8f818e21f0e7] - page.onError - stack:
+  (anonymous function) (https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.5.1/index-min.js,secdev/sufei_data/3.0.8/index.js:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-02T02:30:07.090Z] Session [996cb9f0-a719-11e7-87a2-8f818e21f0e7] - page.onError - msg: kg/search-suggest/6.3.1/plugin/history-magic is not loaded! can not find module in path : https://g.alicdn.com/kg/??search-suggest/6.3.1/index-min.js,search-suggest/6.3.1/plugin/history-min.js,search-suggest/6.3.1/plugin/cloud-min.js,search-suggest/6.3.1/plugin/tab-min.js,search-suggest/6.3.1/plugin/history-magic-min.js,search-suggest/6.3.1/plugin/imgsearch-min.js,search-suggest/6.3.1/theme/pailitao/index-min.js
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-02T02:30:07.090Z] Session [996cb9f0-a719-11e7-87a2-8f818e21f0e7] - page.onError - stack:
+  (anonymous function) (https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.5.1/index-min.js,secdev/sufei_data/3.0.8/index.js:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-02T02:30:07.090Z] Session [996cb9f0-a719-11e7-87a2-8f818e21f0e7] - page.onError - msg: kg/search-suggest/6.3.1/plugin/imgsearch is not loaded! can not find module in path : https://g.alicdn.com/kg/??search-suggest/6.3.1/index-min.js,search-suggest/6.3.1/plugin/history-min.js,search-suggest/6.3.1/plugin/cloud-min.js,search-suggest/6.3.1/plugin/tab-min.js,search-suggest/6.3.1/plugin/history-magic-min.js,search-suggest/6.3.1/plugin/imgsearch-min.js,search-suggest/6.3.1/theme/pailitao/index-min.js
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-02T02:30:07.090Z] Session [996cb9f0-a719-11e7-87a2-8f818e21f0e7] - page.onError - stack:
+  (anonymous function) (https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.5.1/index-min.js,secdev/sufei_data/3.0.8/index.js:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-02T02:30:07.090Z] Session [996cb9f0-a719-11e7-87a2-8f818e21f0e7] - page.onError - msg: kg/search-suggest/6.3.1/theme/pailitao/index is not loaded! can not find module in path : https://g.alicdn.com/kg/??search-suggest/6.3.1/index-min.js,search-suggest/6.3.1/plugin/history-min.js,search-suggest/6.3.1/plugin/cloud-min.js,search-suggest/6.3.1/plugin/tab-min.js,search-suggest/6.3.1/plugin/history-magic-min.js,search-suggest/6.3.1/plugin/imgsearch-min.js,search-suggest/6.3.1/theme/pailitao/index-min.js
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-02T02:30:07.090Z] Session [996cb9f0-a719-11e7-87a2-8f818e21f0e7] - page.onError - stack:
+  (anonymous function) (https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.5.1/index-min.js,secdev/sufei_data/3.0.8/index.js:5)
+
+  phantomjs://platform/console++.js:263 in error
